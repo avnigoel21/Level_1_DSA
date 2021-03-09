@@ -1,7 +1,7 @@
 import java.io.*;
 import java.util.*;
 
-public class Smallest_Number_Following_Pattern{
+public class smallest_number_following_pattern{
   
 
     public static void main(String[] args) throws Exception {
